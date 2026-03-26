@@ -20,3 +20,7 @@
 2026-03-25 10:59:35,909 - INFO - fundoo-app - Fetching user with id: 9
 2026-03-25 11:16:34,325 - INFO - fundoo-app - API called: Get User 6
 2026-03-25 11:16:34,326 - INFO - fundoo-app - Fetching user with id: 6
+2026-03-26 11:08:08,595 - INFO - fundoo-app - 3 notes fetched
+2026-03-26 11:09:23,666 - INFO - fundoo-app - Note created for user 3
+2026-03-26 11:09:45,543 - INFO - fundoo-app - 1 notes fetched for user 3
+2026-03-26 11:10:12,648 - INFO - fundoo-app - Note 1 deleted

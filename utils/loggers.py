@@ -16,7 +16,7 @@ console_handler = logging.StreamHandler()
 console_handler.setFormatter(formatter)
 
 # File handler
-file_handler = logging.FileHandler("app.log")
+file_handler = logging.FileHandler("logs/app.log")
 file_handler.setFormatter(formatter)
 
 # Add handlers
