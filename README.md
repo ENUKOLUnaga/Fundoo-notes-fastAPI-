@@ -3,8 +3,6 @@
 A backend REST API built using **FastAPI** for managing users and notes.
 This project demonstrates CRUD operations, database integration, logging, and modular architecture.
 
-```
-
 ## Tech Stack
 
 * **FastAPI** – Backend framework
@@ -14,7 +12,6 @@ This project demonstrates CRUD operations, database integration, logging, and mo
 * **Uvicorn** – ASGI server
 * **Python Logging** – Application logging
 
-```
 
 ## Project Structure
 
