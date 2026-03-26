@@ -152,7 +152,6 @@ logs/app.log
 
 ## Learning Outcomes
 
-* FastAPI project structure
 * REST API development
 * SQLAlchemy ORM usage
 * MSSQL integration
